@@ -1,6 +1,6 @@
 # How To Git
 
-Use this repo to play with basic git operations.
+Use this repo to play with basic git operations and GitHub processes.
 
 ## Requirements
 - A GitHub account
