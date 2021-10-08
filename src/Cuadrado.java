@@ -1,3 +1,3 @@
 public class Cuadrado {
-    // [ToDo]
+    // [ToDo]: Code this class bu adding constructor and methods
 }
