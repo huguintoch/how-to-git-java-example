@@ -16,7 +16,7 @@ public class Diana {
 		this.xPos = xPos;
 		this.yPos = yPos;
 		this.ancho = 204;
-		this.colorCentro = Color.RED;
+		this.colorCentro = Color.BLUE;
 	}
 
 	public void setAncho(int ancho) {
