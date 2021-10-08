@@ -1,3 +1,9 @@
+// [ToDo]: Code this class by adding constructor and methods
+
 public class Cuadrado {
-    // [ToDo]: Code this class bu adding constructor and methods
+
+    // Constructor
+
+    // Methods
+    
 }
